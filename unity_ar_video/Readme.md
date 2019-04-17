@@ -8,4 +8,5 @@ Vufuria Augmented Reality sdk used with unity for build AR video playback applic
 ## Requirements
 
 Unity 
+
 Vufuria SDK
