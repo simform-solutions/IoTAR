@@ -1,5 +1,7 @@
 #Augmented Reality Deep learning object detection with opencv on Raspberrypi
 
+![](demo.gif)
+
 Raspberrypi run deep learning object detection with opencv used for detect bottel object and ultrasonic sensor connected with raspberrypi and it put on top of bottel for measure water level of bottel if bottel detected then water level measured by sensor show up on bottel in video frame using opencv.
 
 For object detection tensorflow pretrained mobilenetssd model used in this project mobilenetssd model able to detect more than 20 object but in project code is set to detect only bottel object.
