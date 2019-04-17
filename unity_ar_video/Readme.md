@@ -5,7 +5,7 @@
 Vufuria Augmented Reality sdk used with unity for build AR video playback application if tropicana bottel detect in video then tropicana video ad will play on it.
 
 
-##Requirements :- 
+## Requirements
 
 Unity 
 Vufuria SDK
