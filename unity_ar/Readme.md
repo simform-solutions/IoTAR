@@ -6,13 +6,13 @@ Vufuria Augmented Reality sdk used with unity for build AR application Raspberry
 
 ## Requirements
 
-Hardware 
+### Hardware 
 
 Raspberrypi 
 
 Dht11 sensor
 
-Software
+### Software
 
 Unity 
 
