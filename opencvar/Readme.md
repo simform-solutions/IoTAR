@@ -8,9 +8,13 @@ Opencv SIFT algorithm used for detect and compute image feature keypoints opencv
 ## Requirements :- 
 
 OpenCV (3.4.2)
+
 Python (2.7)
+
 Pygame
+
 mtl
+
 PyOpenGL
 
 ### Run project  
