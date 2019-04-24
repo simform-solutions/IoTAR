@@ -1,5 +1,11 @@
 # IOT + AR Prototypes
 
+*  [Augmented Reality Deep learning object detection with opencv on Raspberrypi ](https://github.com/simformsolutions/IoTAR/tree/master/ar_deeplearning)
+*  [Augmented Reality with OpenCV & OpenGL](https://github.com/simformsolutions/IoTAR/tree/master/opencvar)
+*  [IOT + Augmented Reality with Unity & Vufuria](https://github.com/simformsolutions/IoTAR/tree/master/unity_ar)
+*  [Augmented Reality IOT Control](https://github.com/simformsolutions/IoTAR/tree/master/unity_ar_control)
+*  [Augmented Reality Advertisement Video playback with Unity & Vufuria](https://github.com/simformsolutions/IoTAR/tree/master/unity_ar_video)
+
 In this prototypes following software and libraries used
 
 *  OpenCV
