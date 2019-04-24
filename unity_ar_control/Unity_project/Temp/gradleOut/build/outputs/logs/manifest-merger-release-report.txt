@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-101
+		INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:2:102-148
+	android:versionCode
+		INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:2:149-189
+supports-screens
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-16:17
+MERGED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:19:5-30:19
+MERGED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:19:5-30:19
+	android:label
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:4:90-122
+	android:debuggable
+		ADDED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:19:18-44
+	android:icon
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:4:58-89
+	android:banner
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:4:145-182
+	android:theme
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:4:123-144
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:5:141-172
+	android:hardwareAccelerated
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:5:355-390
+	android:configChanges
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
+meta-data#unity.build-id
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-101
+	android:value
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:13:46-98
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-74
+	android:value
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:15:51-71
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-50
+uses-feature#0x00020000
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:17:3-52
+	android:glEsVersion
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:17:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:18:3-65
+MERGED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:18:20-62
+uses-permission#android.permission.CAMERA
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-63
+MERGED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:19:20-60
+uses-feature#android.hardware.camera
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-83
+MERGED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:12:5-60
+	android:required
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:20:56-80
+		MERGED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:20:56-80
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:20:17-55
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-93
+	android:required
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:21:66-90
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:21:17-65
+uses-feature#android.hardware.camera.front
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-89
+	android:required
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:22:62-86
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:22:17-61
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:23:3-88
+	android:required
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:23:61-85
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:23:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:24:3-99
+	android:required
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:24:72-96
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:24:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:25:3-108
+	android:required
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:25:81-105
+	android:name
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:25:17-80
+uses-sdk
+INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+MERGED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:8:5-10:41
+MERGED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:8:5-10:41
+INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:17:22-78
+meta-data#com.google.ar.core
+ADDED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:22:9-24:40
+	android:value
+		ADDED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:23:13-46
+uses-library#com.osterhoutgroup.api.ext
+ADDED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:27:9-29:40
+	android:required
+		ADDED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/kamlesh.panchal/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/9779d165f65b95cb8437e239913f7909/AndroidManifest.xml:28:13-54
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-26:12 reason: com.vuforia.engine.ext requested WRITE_EXTERNAL_STORAGE

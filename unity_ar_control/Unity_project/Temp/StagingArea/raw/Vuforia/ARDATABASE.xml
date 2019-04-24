@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="newbulb" size="600.000000 800.099976" />
+    <ImageTarget name="lightt" size="600.000000 800.099976" />
+    <ImageTarget name="light" size="600.000000 767.307678" />
+    <ImageTarget name="bulb" size="500.000000 666.750000" />
+    <ImageTarget name="rasp" size="500.000000 666.746155" />
+    <ImageTarget name="mark" size="500.000000 490.837708" />
+    <ImageTarget name="rpi" size="500.000000 325.563904" />
+    <ImageTarget name="uac" size="800.000000 411.538452" />
+    <ImageTarget name="acnew" size="800.000000 266.358368" />
+    <ImageTarget name="ac" size="600.000000 404.032257" />
+    <ImageTarget name="bottel" size="800.000000 1066.382935" />
+    <ImageTarget name="arimage" size="6.000000 9.036290" />
+  </Tracking>
+</QCARConfig>

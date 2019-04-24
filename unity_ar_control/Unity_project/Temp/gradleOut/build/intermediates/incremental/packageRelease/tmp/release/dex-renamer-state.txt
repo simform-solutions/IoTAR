@@ -1,0 +1,4 @@
+#Wed Apr 24 17:43:22 IST 2019
+base.0=/Users/kamlesh.panchal/unity/ar_control/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

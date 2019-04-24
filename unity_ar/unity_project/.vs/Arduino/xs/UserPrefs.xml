@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F335E18D-1D65-DF66-00E0-C10663C656B7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Move.cs">
+    <Files>
+      <File FileName="Assets/Move.cs" Line="30" Column="13" />
+      <File FileName="Assets/jsondemo.cs" Line="50" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
