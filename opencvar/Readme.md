@@ -4,7 +4,7 @@
 
 Opencv SIFT algorithm used for detect and compute image feature keypoints opencv FlannBased feature matching function help to get total matches then if total matches is greater than minimum number of matches then compute homography of image for get projection and render 3d object model.3d Object model is render using opengl.
 
-##Requirements :- 
+## Requirements :- 
 
 * OpenCV (3.4.2)
 * Python (2.7)
@@ -12,6 +12,6 @@ Opencv SIFT algorithm used for detect and compute image feature keypoints opencv
 * mtl
 * PyOpenGL
 
-###Run project  
+## Run project  
 
 python opencvar.py
